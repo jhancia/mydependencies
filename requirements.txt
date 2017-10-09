@@ -87,7 +87,7 @@ pyOpenSSL==17.3.0
 newrelic==2.94.0.79
 
 # Sentry-client for logging
-raven==6.0.0
+raven==6.2.1
 
 
 
