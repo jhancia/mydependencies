@@ -26,7 +26,7 @@ Collectfast==0.5.2
 django-mailgun==0.9.1
 
 # Celery
-pyOpenSSL
+pyOpenSSL==17.3.0
 #librabbitmq doesnt support ssl as of april 2016
 #librabbitmq==1.6.1
 #amqplib
