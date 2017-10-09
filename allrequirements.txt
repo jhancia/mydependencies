@@ -69,7 +69,7 @@ boto==2.48.0
 # until we're on python 3 only?
 # if we do, we'll need to change the custom storages
 # thing we do with django-storages to use boto3 version
-boto3
+boto3==1.4.7
 django-storages==1.5.2
 Collectfast==0.5.1
 
