@@ -1,0 +1,20 @@
+# Local development dependencies go here
+-r base_requirements.txt
+coverage==4.3.4
+# Sphinx
+django-extensions==1.7.5
+# Werkzeug==0.10.4
+django-test-plus==1.0.16
+#fake-factory==0.6.0
+# Faker will install python_dateutil and ipaddress
+Faker==0.7.7
+factory_boy==2.8.1
+
+# django-debug-toolbar that works with Django 1.5+
+django-debug-toolbar==1.6
+
+# improved REPL
+# ipdb==0.8.1
+
+# testing
+selenium==3.0.2
