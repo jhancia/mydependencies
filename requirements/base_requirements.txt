@@ -1,0 +1,53 @@
+# Bleeding edge Django
+django==1.10.6
+
+# Configuration
+django-environ==0.4.1
+
+# Forms
+#django-braces==1.8.1
+django-crispy-forms==1.6.1
+# django-floppyforms==1.6.0
+
+# Models
+django-model-utils==2.6.1
+ipaddress==1.0.18
+
+# Images
+Pillow==4.0.0
+
+# For user registration, either via email or social
+# Well-built with regular release cycles!
+django-allauth==0.31.0
+
+# Password Hasher
+#argon2-cffi==16.2.0
+bcrypt==3.1.2
+
+# Python-PostgreSQL Database Adapter
+psycopg2==2.7
+
+# Unicode slugification
+unicode-slugify==0.1.3
+#django-autoslug==1.9.3
+# Not sure about this unicodecsv yet
+unicodecsv==0.14.1  
+
+# Time zones support
+python-dateutil==2.5.3
+Babel==2.3.4
+pytz==2016.10
+
+# Redis support
+django-redis==4.7.0
+redis>=2.10.5
+
+#amqp (latest is 2.02, may not work; if not, use 1.4.9)
+# maybe don't need to pin amqp and kombu; just list celery as the dependency
+# and celery will take care of the requirements that it needs
+amqp==1.4.9
+kombu==3.0.37
+celery==3.1.24
+
+# Your custom requirements go here
+django-session-security==2.5.1
