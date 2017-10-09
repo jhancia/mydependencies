@@ -1,1 +1,1 @@
-# mydepencies
+# mydependencies
