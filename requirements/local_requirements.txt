@@ -11,7 +11,7 @@ Faker==0.8.4
 factory-boy==2.9.2
 
 # django-debug-toolbar that works with Django 1.5+
-django-debug-toolbar==1.6
+django-debug-toolbar==1.8
 
 # improved REPL
 # ipdb==0.8.1
