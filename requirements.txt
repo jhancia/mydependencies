@@ -100,7 +100,7 @@ django-extensions==1.7.5
 django-test-plus==1.0.18
 #fake-factory==0.6.0
 # Faker will install python_dateutil and ipaddress
-Faker==0.8.4
+Faker==0.8.5
 factory-boy==2.9.2
 
 # django-debug-toolbar that works with Django 1.5+
