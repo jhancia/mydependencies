@@ -11,7 +11,7 @@ gunicorn==19.7.1
 
 # Static and Media Storage
 # ------------------------------------------------
-boto==2.45.0
+boto==2.48.0
 # Collectfast now requires boto3
 # can we make the full jump to boto3 or only
 # until we're on python 3 only?
