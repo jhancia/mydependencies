@@ -2,16 +2,16 @@
 -r base_requirements.txt
 coverage==4.3.4
 # Sphinx
-django-extensions==1.7.5
+django-extensions==2.0.7
 # Werkzeug==0.10.4
-django-test-plus==1.0.18
+django-test-plus==1.0.22
 #fake-factory==0.6.0
 # Faker will install python_dateutil and ipaddress
 Faker==0.8.5
-factory-boy==2.9.2
+factory-boy==2.11.1
 
 # django-debug-toolbar that works with Django 1.5+
-django-debug-toolbar==1.8
+django-debug-toolbar==1.9.1
 
 # improved REPL
 # ipdb==0.8.1
