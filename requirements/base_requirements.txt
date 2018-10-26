@@ -37,7 +37,7 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.5.3
 Babel==2.3.4
-pytz==2018.4
+pytz==2018.6
 
 # Redis support
 django-redis==4.9.0
