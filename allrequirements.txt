@@ -111,4 +111,4 @@ django-debug-toolbar==1.10.1
 # ipdb==0.11
 
 # testing
-selenium==3.12.0
+selenium==3.14.1
