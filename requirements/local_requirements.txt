@@ -4,7 +4,7 @@ coverage==4.5.1
 # Sphinx
 django-extensions==2.0.7
 # Werkzeug==0.14.1
-django-test-plus==1.0.22
+django-test-plus==1.1.1
 #fake-factory==0.6.0
 # Faker will install python_dateutil and ipaddress
 Faker==0.8.15
