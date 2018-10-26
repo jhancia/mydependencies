@@ -32,7 +32,7 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==3.2.1.93
+newrelic==4.4.1.104
 
 # Sentry-client for logging
 raven==6.9.0
