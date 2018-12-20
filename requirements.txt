@@ -64,7 +64,7 @@ gunicorn==19.9.0
 
 # Static and Media Storage
 # ------------------------------------------------
-boto==2.48.0
+boto==2.49.0
 # Collectfast now requires boto3
 # can we make the full jump to boto3 or only
 # until we're on python 3 only?
@@ -85,10 +85,10 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==4.4.1.104 
+newrelic==4.8.0.110
 
 # Sentry-client for logging
-raven==6.9.0
+raven==6.10.0
 
 
 
