@@ -38,10 +38,10 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.5.3
 Babel==2.3.4
-pytz==2018.6
+pytz==2018.7
 
 # Redis support
-django-redis==4.9.0
+django-redis==4.10.0
 redis>=2.10.5
 
 #amqp (latest is 2.02, may not work; if not, use 1.4.9)
@@ -76,7 +76,7 @@ Collectfast==0.6.2
 
 # Mailgun Support
 # ---------------
-django-anymail[mailgun]==4.3  # https://github.com/anymail/
+django-anymail[mailgun]==5.0  # https://github.com/anymail/
 
 # Celery
 pyOpenSSL
