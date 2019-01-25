@@ -51,4 +51,4 @@ redis>=2.10.5
 celery==4.2.1
 
 # Your custom requirements go here
-django-session-security==2.6.0
+django-session-security==2.6.5
