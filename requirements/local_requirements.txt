@@ -4,7 +4,7 @@ coverage==4.5.2
 # Sphinx
 django-extensions==2.1.4
 Werkzeug==0.14.1
-pyOpenSSL
+pyOpenSSL==19.0.0
 
 django-test-plus==1.1.1
 #fake-factory==0.6.0
