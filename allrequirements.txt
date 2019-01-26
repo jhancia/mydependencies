@@ -81,7 +81,7 @@ Collectfast==0.6.2
 django-anymail[mailgun]==5.0  # https://github.com/anymail/
 
 # Celery
-pyOpenSSL
+pyOpenSSL==19.0.0
 #librabbitmq doesnt support ssl as of april 2016
 #librabbitmq==1.6.1
 #amqplib
