@@ -30,7 +30,7 @@ psycopg2==2.7.4 --no-binary psycopg2
 
 # Unicode slugification
 #unicode-slugify==0.1.3
-python-slugify==1.2.6
+python-slugify==2.0.1
 #django-autoslug==1.9.3
 # Not sure about this unicodecsv yet
 unicodecsv==0.14.1  
