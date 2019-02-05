@@ -36,7 +36,7 @@ python-slugify==1.2.6
 unicodecsv==0.14.1  
 
 # Time zones support
-python-dateutil==2.5.3
+python-dateutil==2.8.0
 Babel==2.3.4
 pytz==2018.9
 django-timezone-field==3.0
