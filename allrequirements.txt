@@ -2,7 +2,7 @@
 #	requirements.txt in the root directory of a project.
 
 # Bleeding edge Django
-django==2.0.10
+django==2.0.13
 
 # Configuration
 django-environ==0.4.5
@@ -87,7 +87,7 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==4.12.0.113 
+newrelic==4.14.0.115
 
 # Sentry-client for logging
 raven==6.10.0
