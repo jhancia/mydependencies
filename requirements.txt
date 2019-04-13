@@ -16,7 +16,7 @@ django-model-utils==3.1.2
 ipaddress==1.0.18
 
 # Images
-Pillow==5.4.1
+Pillow==6.0.0
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
@@ -27,7 +27,7 @@ django-allauth==0.38.0
 bcrypt==3.1.6
 
 # Python-PostgreSQL Database Adapter
-psycopg2==2.7.4 --no-binary psycopg2
+psycopg2==2.8.1 --no-binary psycopg2
 
 # Unicode slugification
 python-slugify==3.0.1
@@ -39,7 +39,7 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.5.3
 Babel==2.3.4
-pytz==2018.9
+pytz==2019.1
 django-timezone-field==3.0
 
 # Redis support
@@ -87,7 +87,7 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==4.16.0.116 
+newrelic==4.16.0.117 
 
 # Sentry-client for logging
 raven==6.10.0
@@ -99,7 +99,7 @@ raven==6.10.0
 coverage==4.5.3
 # Sphinx
 django-extensions==2.1.6
-Werkzeug==0.15.1
+Werkzeug==0.15.2
 django-test-plus==1.1.1
 #fake-factory==0.6.0
 # Faker will install python_dateutil and ipaddress
