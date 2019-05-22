@@ -22,7 +22,7 @@ Collectfast==0.6.2
 
 # Mailgun Support
 # ---------------
-django-anymail[mailgun]==6.0  # https://github.com/anymail/
+django-anymail[mailgun]==6.0.1  # https://github.com/anymail/
 
 # Celery
 pyOpenSSL
@@ -31,7 +31,7 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==4.16.1.117 
+newrelic==4.20.0.120 
 
 # Sentry-client for logging
 raven==6.10.0
