@@ -51,7 +51,7 @@ redis>=2.10.5
 #amqp==1.4.9
 #kombu==3.0.37
 celery==4.3.0
-django-celery-results==1.0.4
+django-celery-results==1.1.1
 
 # Your custom requirements go here
 django-session-security==2.6.5
