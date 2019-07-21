@@ -78,7 +78,7 @@ Collectfast==0.6.2
 
 # Mailgun Support
 # ---------------
-django-anymail[mailgun]==6.0.1  # https://github.com/anymail/
+django-anymail[mailgun]==6.1.0  # https://github.com/anymail/
 
 # Celery
 pyOpenSSL
