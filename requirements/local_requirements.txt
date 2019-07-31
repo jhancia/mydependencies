@@ -6,7 +6,7 @@ django-extensions==2.1.7
 Werkzeug==0.15.2
 pyOpenSSL
 
-django-test-plus==1.1.1
+django-test-plus==1.3.1
 #fake-factory==0.6.0
 # Faker will install python_dateutil and ipaddress
 Faker==1.0.4
