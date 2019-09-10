@@ -73,7 +73,7 @@ gunicorn==19.9.0
 # ------------------------------------------------
 boto==2.49.0
 # Collectfast now requires boto3
-django-storages[boto3]==1.7.1
+django-storages[boto3]==1.7.2
 Collectfast==0.6.2
 
 # Mailgun Support
