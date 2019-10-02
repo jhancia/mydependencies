@@ -98,7 +98,7 @@ raven==6.10.0
 
 coverage==4.5.3
 # Sphinx
-django-extensions==2.1.7
+django-extensions==2.2.2
 Werkzeug==0.15.2
 django-test-plus==1.1.1
 #fake-factory==0.6.0
