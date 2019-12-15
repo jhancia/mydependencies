@@ -101,7 +101,7 @@ raven==6.10.0
 
 # LOCAL REQUIREMENTS 
 
-coverage==4.5.3
+coverage==5.0
 # Sphinx
 django-extensions==2.2.5
 Werkzeug==0.16.0
