@@ -34,4 +34,5 @@ pyOpenSSL
 newrelic==5.2.3.131 
 
 # Sentry-client for logging
-raven==6.10.0
+#raven==6.10.0
+sentry-sdk==0.13.5  # https://github.com/getsentry/sentry-python
