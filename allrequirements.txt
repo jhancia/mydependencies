@@ -37,7 +37,7 @@ python-slugify==4.0.0
 unicodecsv==0.14.1  
 
 # Time zones support
-python-dateutil==2.5.3
+python-dateutil==2.8.1
 Babel==2.7.0
 pytz==2019.3
 django-timezone-field==3.1
@@ -95,8 +95,8 @@ pyOpenSSL
 newrelic==5.2.3.131 
 
 # Sentry-client for logging
-raven==6.10.0
-
+#raven==6.10.0
+sentry-sdk==0.13.5  # https://github.com/getsentry/sentry-python
 
 
 # LOCAL REQUIREMENTS 
