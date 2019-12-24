@@ -2,7 +2,7 @@
 #	requirements.txt in the root directory of a project.
 
 # Bleeding edge Django
-django==2.0.13
+django==2.2.9
 
 # Configuration
 django-environ==0.4.5
@@ -40,7 +40,7 @@ unicodecsv==0.14.1
 python-dateutil==2.8.1
 Babel==2.7.0
 pytz==2019.3
-django-timezone-field==3.1
+django-timezone-field==4.0
 
 # Redis support
 django-redis==4.11.0
@@ -52,14 +52,14 @@ redis==3.3.11  # https://github.com/antirez/redis
 #amqp==1.4.9
 #kombu==3.0.37
 celery==4.4.0
-django-celery-results==1.0.4
+django-celery-results==1.1.2
 django-celery-beat==1.5.0
 
 # Your custom requirements go here
 django-session-security==2.6.5
 
 # Comments
-django-contrib-comments==1.9.1
+django-contrib-comments==1.9.2
 django-threadedcomments==1.2
 
 django-mptt==0.10.0
