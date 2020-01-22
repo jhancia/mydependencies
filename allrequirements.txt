@@ -96,7 +96,7 @@ newrelic==5.4.1.134
 
 # Sentry-client for logging
 #raven==6.10.0
-sentry-sdk==0.13.5  # https://github.com/getsentry/sentry-python
+sentry-sdk==0.14.1  # https://github.com/getsentry/sentry-python
 
 
 # LOCAL REQUIREMENTS 
