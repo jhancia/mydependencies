@@ -2,7 +2,7 @@
 #	requirements.txt in the root directory of a project.
 
 # Bleeding edge Django
-django==2.2.9
+django==3.0.3
 
 # Configuration
 django-environ==0.4.5
