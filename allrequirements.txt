@@ -56,7 +56,7 @@ django-celery-results==1.1.2
 django-celery-beat==1.5.0
 
 # Your custom requirements go here
-django-session-security==2.6.5
+django-session-security==2.6.6
 
 # Comments
 django-contrib-comments==1.9.2
