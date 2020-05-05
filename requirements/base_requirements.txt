@@ -64,4 +64,4 @@ django-threadedcomments==1.2
 django-mptt==0.11.0
 
 # file extension and mimetype validation
-python-magic==0.4.15
+python-magic==0.4.17
