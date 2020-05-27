@@ -42,7 +42,7 @@ pytz==2020.1
 django-timezone-field==4.0
 
 # Redis support
-django-redis==4.11.0
+django-redis==4.12.1
 redis==3.5.0  # https://github.com/antirez/redis
 
 #amqp (latest is 2.02, may not work; if not, use 1.4.9)
