@@ -43,8 +43,8 @@ pytz==2020.1
 django-timezone-field==4.0
 
 # Redis support
-django-redis==4.11.0
-redis==3.5.0  # https://github.com/antirez/redis
+django-redis==4.12.1
+redis==3.5.3  # https://github.com/antirez/redis
 
 #amqp (latest is 2.02, may not work; if not, use 1.4.9)
 # maybe don't need to pin amqp and kombu; just list celery as the dependency
@@ -71,7 +71,7 @@ python-magic==0.4.15
 
 # WSGI Handler
 # ------------------------------------------------
-gevent==20.5.0
+gevent==20.5.2
 gunicorn==20.0.4 
 
 # Static and Media Storage
@@ -92,11 +92,11 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==5.12.0.140
+newrelic==5.12.0.142
 
 # Sentry-client for logging
 #raven==6.10.0
-sentry-sdk==0.14.3  # https://github.com/getsentry/sentry-python
+sentry-sdk==0.14.4  # https://github.com/getsentry/sentry-python
 
 
 
