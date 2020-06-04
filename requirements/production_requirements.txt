@@ -6,7 +6,7 @@
 
 # WSGI Handler
 # ------------------------------------------------
-gevent==20.5.0
+gevent==20.5.2
 gunicorn==20.0.4 
 
 # Static and Media Storage
@@ -31,8 +31,8 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==5.12.0.140
+newrelic==5.12.0.142
 
 # Sentry-client for logging
 #raven==6.10.0
-sentry-sdk==0.14.3  # https://github.com/getsentry/sentry-python
+sentry-sdk==0.14.4  # https://github.com/getsentry/sentry-python
