@@ -71,19 +71,19 @@ python-magic==0.4.15
 
 # WSGI Handler
 # ------------------------------------------------
-gevent==20.6.2
+gevent==20.9.0
 gunicorn==20.0.4
 
 # Static and Media Storage
 # ------------------------------------------------
 boto==2.49.0
 # Collectfast now requires boto3
-django-storages[boto3]==1.9.1
+django-storages[boto3]==1.10.1
 Collectfast==2.2.0
 
 # Mailgun Support
 # ---------------
-django-anymail[sendgrid]==7.2.1  # https://github.com/anymail/
+django-anymail[sendgrid]==8.0  # https://github.com/anymail/
 
 # Celery
 pyOpenSSL
@@ -92,10 +92,10 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==5.14.0.142
+newrelic==55.20.1.150
 
 # Sentry-client for logging
-sentry-sdk==0.17.1  # https://github.com/getsentry/sentry-python
+sentry-sdk==0.18.0  # https://github.com/getsentry/sentry-python
 
 
 # LOCAL REQUIREMENTS 
