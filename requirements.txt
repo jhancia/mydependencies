@@ -38,7 +38,7 @@ unicodecsv==0.14.1
 
 # Time zones support
 python-dateutil==2.8.1
-Babel==2.7.0
+Babel==2.8.1
 pytz==2020.1
 django-timezone-field==4.0
 
