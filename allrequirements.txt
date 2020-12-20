@@ -59,7 +59,7 @@ django-celery-beat==2.1.0
 django-session-security==2.6.6
 
 # Comments
-django-contrib-comments==1.9.2
+django-contrib-comments==2.0.0
 django-threadedcomments==1.2
 
 django-mptt==0.11.0
