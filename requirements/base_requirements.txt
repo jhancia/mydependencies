@@ -64,7 +64,7 @@ django-session-security==2.6.6
 django-contrib-comments==2.1.0
 django-threadedcomments==1.2
 
-django-mptt==0.11.0
+django-mptt==0.12.0
 
 # file extension and mimetype validation
 python-magic==0.4.15
