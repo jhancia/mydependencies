@@ -16,7 +16,7 @@ django-model-utils==4.1.1
 ipaddress==1.0.18
 
 # Images
-Pillow==8.1.2
+Pillow==8.2.0
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
