@@ -19,4 +19,4 @@ django-debug-toolbar==3.2.2
 # ipdb==0.11
 
 # testing
-selenium==3.141.0
+selenium==4.1.0
