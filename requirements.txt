@@ -43,7 +43,7 @@ django-timezone-field==4.2.1
 
 # Redis support
 django-redis==5.0.0
-redis==3.5.3  # https://github.com/antirez/redis
+redis==4.0.2  # https://github.com/antirez/redis
 
 #amqp (latest is 2.02, may not work; if not, use 1.4.9)
 # maybe don't need to pin amqp and kombu; just list celery as the dependency
