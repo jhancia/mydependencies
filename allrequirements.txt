@@ -1,8 +1,8 @@
 # This file is here because many Platforms as a Service look for
 #	requirements.txt in the root directory of a project.
 
-# Bleeding edge Django
-django==3.1.13
+# Django
+django==3.2.12
 
 # Configuration
 django-environ==0.8.1
