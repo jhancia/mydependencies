@@ -12,7 +12,7 @@ django-formtools==2.3
 
 # Models
 django-model-utils==4.2.0
-ipaddress==1.0.18
+ipaddress==1.0.23
 
 # Images
 Pillow==8.4.0
