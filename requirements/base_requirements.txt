@@ -26,9 +26,9 @@ bcrypt==3.2.0
 
 # Python-PostgreSQL Database Adapter
 # locally use 
-psycopg2-binary==2.9.2
+psycopg2-binary==2.9.3
 # in production use without binary
-psycopg2==2.9.2
+psycopg2==2.9.3
 
 # Unicode slugification
 #unicode-slugify==0.1.3
