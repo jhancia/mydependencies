@@ -52,8 +52,8 @@ redis==4.1.4  # https://github.com/antirez/redis
 # and celery will take care of the requirements that it needs
 #amqp==1.4.9
 #kombu==3.0.37
-celery==5.2.1
-django-celery-results==2.2.0
+celery==5.2.3
+django-celery-results==2.3.0
 django-celery-beat==2.2.1
 
 # Your custom requirements go here
