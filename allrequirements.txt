@@ -20,7 +20,7 @@ Pillow==9.1.0
 
 # For user registration, either via email or social
 # Well-built with regular release cycles!
-django-allauth==0.49.0
+django-allauth==0.50.0
 
 # Password Hasher
 #argon2-cffi==16.2.0
