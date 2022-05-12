@@ -68,7 +68,7 @@ django-mptt==0.13.4
 # file extension and mimetype validation
 python-magic==0.4.25
 
-django-friendship==1.9.4
+django-friendship==1.9.6
 
 django-ipware==4.0.2
 
