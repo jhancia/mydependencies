@@ -28,7 +28,7 @@ bcrypt==3.2.2
 # locally use 
 psycopg2-binary==2.9.3
 # in production use without binary
-psycopg2==2.9.3
+psycopg2==2.9.5
 
 # Unicode slugification
 #unicode-slugify==0.1.3
