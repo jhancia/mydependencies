@@ -27,7 +27,7 @@ django-allauth==0.50.0
 bcrypt==3.2.2
 
 # Python-PostgreSQL Database Adapter
-psycopg2==2.9.3 --no-binary psycopg2
+psycopg2==2.9.5 --no-binary psycopg2
 
 # Unicode slugification
 python-slugify==6.1.2
