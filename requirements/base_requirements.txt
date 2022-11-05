@@ -26,7 +26,7 @@ bcrypt==3.2.2
 
 # Python-PostgreSQL Database Adapter
 # locally use 
-psycopg2-binary==2.9.3
+psycopg2-binary==2.9.5
 # in production use without binary
 psycopg2==2.9.5
 
@@ -40,7 +40,7 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.8.2
 Babel==2.9.1
-pytz==2022.1
+pytz==2022.6
 django-timezone-field==4.2.3
 
 # Redis support
