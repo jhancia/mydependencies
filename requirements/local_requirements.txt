@@ -3,7 +3,7 @@
 coverage==5.1
 # Sphinx
 django-extensions==3.2.1
-Werkzeug==2.0.3
+Werkzeug==2.2.3
 pyOpenSSL
 
 django-test-plus==2.2.0
