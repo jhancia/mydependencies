@@ -18,7 +18,7 @@ ipaddress==1.0.23
 Pillow==9.4.0
 
 # For user registration, either via email or social
-django-allauth==0.51.0
+django-allauth==0.52.0
 
 # Password Hasher
 #argon2-cffi==16.2.0
