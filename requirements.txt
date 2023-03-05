@@ -82,7 +82,7 @@ Collectfast==2.2.0
 
 # Mailgun Support
 # ---------------
-django-anymail[sendgrid]==8.6
+django-anymail[sendgrid]==9.0
 
 # Celery
 pyOpenSSL
