@@ -5,7 +5,7 @@
 django==4.0.10
 
 # Configuration
-django-environ==0.9.0
+django-environ==0.10.0
 
 # Forms
 django-crispy-forms==1.14.0
