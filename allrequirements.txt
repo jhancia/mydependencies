@@ -5,18 +5,18 @@
 django==4.0.10
 
 # Configuration
-django-environ==0.10.0
+django-environ==0.11.2
 
 # Forms
 django-crispy-forms==1.14.0
 django-formtools==2.3
 
 # Models
-django-model-utils==4.3.1
+django-model-utils==4.4.0
 ipaddress==1.0.23
 
 # Images
-Pillow==9.5.0
+Pillow==10.2.0
 
 # For user registration, either via email or social
 django-allauth==0.54.0
@@ -26,10 +26,10 @@ django-allauth==0.54.0
 bcrypt==4.0.1
 
 # Python-PostgreSQL Database Adapter
-psycopg2==2.9.6 --no-binary psycopg2
+psycopg2==2.9.9 --no-binary psycopg2
 
 # Unicode slugification
-python-slugify==8.0.1
+python-slugify==8.0.4
 #unicode-slugify==0.1.3
 #django-autoslug==1.9.3
 # Not sure about this unicodecsv yet
@@ -38,7 +38,7 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.8.2
 Babel==2.9.1
-pytz==2023.3
+pytz==2024.1
 django-timezone-field==5.0
 
 # Redis support
@@ -50,7 +50,7 @@ redis==4.5.5  # https://github.com/antirez/redis
 # and celery will take care of the requirements that it needs
 #amqp==1.4.9
 #kombu==3.0.37
-celery==5.3.0
+celery==5.3.6
 django-celery-results==2.5.1
 django-celery-beat==2.5.0
 
@@ -94,7 +94,7 @@ pyOpenSSL
 newrelic==8.8.0
 
 # Sentry-client for logging
-sentry-sdk==1.25.1
+sentry-sdk==1.40.6
 
 
 # LOCAL REQUIREMENTS 
@@ -109,7 +109,7 @@ django-test-plus==2.2.0
 Faker==5.0.1
 factory-boy==3.1.0
 
-django-debug-toolbar==4.1.0
+django-debug-toolbar==4.3.0
 
 # improved REPL
 # ipdb==0.11
