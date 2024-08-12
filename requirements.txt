@@ -94,7 +94,7 @@ pyOpenSSL
 newrelic==9.7.0
 
 # Sentry-client for logging
-sentry-sdk==1.40.6
+sentry-sdk==2.12.0
 
 
 
