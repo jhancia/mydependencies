@@ -23,7 +23,7 @@ django-allauth==0.54.0
 
 # Password Hasher
 #argon2-cffi==16.2.0
-bcrypt==4.1.2
+bcrypt==4.2.0
 
 # Python-PostgreSQL Database Adapter
 psycopg2==2.9.9 --no-binary psycopg2
