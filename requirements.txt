@@ -71,7 +71,7 @@ python-magic==0.4.27
 # WSGI Handler
 # ------------------------------------------------
 gevent==22.10.2
-gunicorn==20.1.0 
+gunicorn==23.0.0 
 
 # Static and Media Storage
 # ------------------------------------------------
