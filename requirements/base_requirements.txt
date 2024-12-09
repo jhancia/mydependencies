@@ -40,7 +40,7 @@ unicodecsv==0.14.1
 # Time zones support
 python-dateutil==2.8.2
 Babel==2.9.1
-pytz==2024.1
+pytz==2024.2
 django-timezone-field==5.0
 
 # Redis support
