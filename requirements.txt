@@ -91,7 +91,7 @@ pyOpenSSL
 #amqplib
 
 # Newrelic agent for performance monitoring
-newrelic==9.13.0
+newrelic==10.3.1
 
 # Sentry-client for logging
 sentry-sdk==2.19.2
