@@ -34,7 +34,7 @@ pyOpenSSL
 newrelic==9.13.0
 
 # Sentry-client for logging
-sentry-sdk==2.12.0
+sentry-sdk==2.19.2
 
 # email validation
 zerobouncesdk==1.1.0
