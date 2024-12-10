@@ -6,8 +6,8 @@ django-environ==0.11.2
 
 # Forms
 #django-braces==1.8.1
-django-crispy-forms==2.0
-crispy-bootstrap3==2022.1
+django-crispy-forms==2.3
+crispy-bootstrap3==2024.1
 # django-floppyforms==1.6.0
 django-formtools==2.3
 
