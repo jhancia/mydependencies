@@ -52,7 +52,7 @@ redis==4.5.5  # https://github.com/antirez/redis
 #kombu==3.0.37
 celery==5.3.6
 django-celery-results==2.5.1
-django-celery-beat==2.5.0
+django-celery-beat==2.7.0
 
 # Your custom requirements go here
 django-session-security==2.6.7
