@@ -16,7 +16,7 @@ django-model-utils==5.0.0
 ipaddress==1.0.23
 
 # Images
-Pillow==10.4.0
+Pillow==11.0.0
 
 # For user registration, either via email or social
 django-allauth==0.54.0
