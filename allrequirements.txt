@@ -8,7 +8,7 @@ django==4.0.10
 django-environ==0.11.2
 
 # Forms
-django-crispy-forms==1.14.0
+django-crispy-forms==2.0
 django-formtools==2.3
 
 # Models
@@ -50,9 +50,9 @@ redis==4.5.5  # https://github.com/antirez/redis
 # and celery will take care of the requirements that it needs
 #amqp==1.4.9
 #kombu==3.0.37
-celery==5.4.0
+celery==5.3.6
 django-celery-results==2.5.1
-django-celery-beat==2.7.0
+django-celery-beat==2.5.0
 
 # Your custom requirements go here
 django-session-security==2.6.7
