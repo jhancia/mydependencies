@@ -78,7 +78,8 @@ gunicorn==23.0.0
 boto==2.49.0
 # Collectfast now requires boto3
 django-storages[boto3]==1.14.4
-Collectfast==2.2.0
+#Collectfast==2.2.0
+Collectfasta==3.2.0
 
 # Mailgun Support
 # ---------------
