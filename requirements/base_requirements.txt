@@ -23,7 +23,7 @@ django-allauth[socialaccount]==65.13.1
 
 # Password Hasher
 #argon2-cffi==16.2.0
-bcrypt==4.2.1
+bcrypt==5.0.0
 
 # Python-PostgreSQL Database Adapter
 # locally use 
