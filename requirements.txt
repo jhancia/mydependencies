@@ -103,7 +103,7 @@ sentry-sdk==2.49.0
 
 coverage==5.1
 # Sphinx
-django-extensions==3.2.3
+django-extensions==4.1
 Werkzeug==2.2.3
 django-test-plus==2.2.0
 #fake-factory==0.6.0
