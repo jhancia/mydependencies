@@ -2,7 +2,7 @@
 #	requirements.txt in the root directory of a project.
 
 # Django
-django==5.1.15
+django==5.2.10
 
 # Configuration
 django-environ==0.12.0
