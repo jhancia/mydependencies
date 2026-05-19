@@ -18,7 +18,6 @@ boto==2.49.0
 # if we do, we'll need to change the custom storages
 # thing we do with django-storages to use boto3 version
 django-storages[boto3]==1.14.6
-# Collectfast==2.2.0
 Collectfasta==3.3.3
 
 # Mailgun Support
